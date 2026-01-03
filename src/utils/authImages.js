@@ -1,0 +1,17 @@
+export const ICON = {
+  PASSWORD: require('../assets/icons/newIcon/lock.png'),
+  EMAIL: require('../assets/icons/newIcon/mail.png'),
+  PHONE: require('../assets/icons/newIcon/call.png'),
+  LOCATION: require('../assets/icons/newIcon/location.png'),
+  CALENDAR: require('../assets/icons/newIcon/calender.png'),
+  GENDER: require('../assets/icons/newIcon/gender.png'),
+  DOB: require('../assets/icons/newIcon/dob.png'),
+  USER: require('../assets/icons/newIcon/user.png'),
+  DATING: require('../assets/icons/newIcon/dating.png'),
+  FRIENDSHIP: require('../assets/icons/newIcon/friendship.png'),
+  RELATION: require('../assets/icons/newIcon/relation.png'),
+  CAMERA: require('../assets/icons/newIcon/camera.png'),
+  EMOJI: require('../assets/icons/newIcon/emoji.png'),
+  FILLEDPROFILE: require('../assets/icons/filledprofile.png'),
+  FILLEDLOCK: require('../assets/icons/lockFilled.png'),
+};
